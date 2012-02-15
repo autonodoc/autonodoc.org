@@ -1,0 +1,12 @@
+<html>
+  <head>
+    <title>Autonodoc</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="/assets/stylesheets/style.css" />
+  </head>
+  <body>
+    <div id="container">
+      {{{yield}}}
+    </div>
+  </body>
+</html>
